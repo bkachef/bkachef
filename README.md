@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate [Your Profession/Interest] with a love for [Your Hobbies/Interests]. I enjoy working on projects related to [Your Preferred Technologies/Topics] and I'm always eager to learn new things.
+I'm a passionate Software Developer with a love for learning something new and inovating. I enjoy working on projects related to discord bots and I'm always eager to learn new things.
 
 - 🔭 I’m currently working on my own Discord Bot called Tomoi
 - 🌱 I’m currently learning C
